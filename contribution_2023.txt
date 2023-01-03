@@ -1,3 +1,4 @@
 Commit on 2023-01-02 00:00:00 - Fix minor bug in model evaluation
 Commit on 2023-01-02 00:00:00 - Fix minor bug in model evaluation
 Commit on 2023-01-03 00:00:00 - Refine data visualization scripts
+Commit on 2023-01-03 00:00:00 - Update requirements and dependencies
