@@ -945,3 +945,4 @@ Commit on 2023-07-05 00:00:00 - Refactor data cleaning pipeline
 Commit on 2023-07-05 00:00:00 - Implement cross-validation techniques
 Commit on 2023-07-06 00:00:00 - Update requirements and dependencies
 Commit on 2023-07-06 00:00:00 - Update requirements and dependencies
+Commit on 2023-07-07 00:00:00 - Add unit tests for core modules
