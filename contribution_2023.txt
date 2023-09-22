@@ -1069,3 +1069,4 @@ Commit on 2023-09-20 00:00:00 - Fix minor bug in model evaluation
 Commit on 2023-09-20 00:00:00 - Update project documentation
 Commit on 2023-09-20 00:00:00 - Improve training speed and efficiency
 Commit on 2023-09-22 00:00:00 - Refactor data cleaning pipeline
+Commit on 2023-09-22 00:00:00 - Add unit tests for core modules
