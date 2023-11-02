@@ -499,3 +499,4 @@ Commit on 2023-10-31 00:00:00 - Update project documentation
 Commit on 2023-11-01 00:00:00 - Update requirements and dependencies
 Commit on 2023-11-01 00:00:00 - Implement cross-validation techniques
 Commit on 2023-11-01 00:00:00 - Update requirements and dependencies
+Commit on 2023-11-02 00:00:00 - Add unit tests for core modules
