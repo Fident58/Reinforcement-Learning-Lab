@@ -520,3 +520,4 @@ Commit on 2023-11-13 00:00:00 - Refactor data cleaning pipeline
 Commit on 2023-11-13 00:00:00 - Implement cross-validation techniques
 Commit on 2023-11-14 00:00:00 - Refine data visualization scripts
 Commit on 2023-11-14 00:00:00 - Refine data visualization scripts
+Commit on 2023-11-14 00:00:00 - Update project documentation
