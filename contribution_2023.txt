@@ -525,3 +525,4 @@ Commit on 2023-11-14 00:00:00 - Update requirements and dependencies
 Commit on 2023-11-15 00:00:00 - Improve training speed and efficiency
 Commit on 2023-11-15 00:00:00 - Refine data visualization scripts
 Commit on 2023-11-17 00:00:00 - Refine data visualization scripts
+Commit on 2023-11-17 00:00:00 - Update requirements and dependencies
