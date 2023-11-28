@@ -547,3 +547,4 @@ Commit on 2023-11-23 00:00:00 - Improve training speed and efficiency
 Commit on 2023-11-23 00:00:00 - Fix minor bug in model evaluation
 Commit on 2023-11-24 00:00:00 - Update requirements and dependencies
 Commit on 2023-11-28 00:00:00 - Update project documentation
+Commit on 2023-11-28 00:00:00 - Fix minor bug in model evaluation
