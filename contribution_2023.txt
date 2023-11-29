@@ -1207,3 +1207,4 @@ Commit on 2023-11-27 00:00:00 - Fix minor bug in model evaluation
 Commit on 2023-11-29 00:00:00 - Fix minor bug in model evaluation
 Commit on 2023-11-29 00:00:00 - Fix minor bug in model evaluation
 Commit on 2023-11-29 00:00:00 - Update project documentation
+Commit on 2023-11-29 00:00:00 - Add unit tests for core modules
