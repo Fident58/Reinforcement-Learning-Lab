@@ -1240,3 +1240,4 @@ Commit on 2023-12-19 00:00:00 - Update requirements and dependencies
 Commit on 2023-12-20 00:00:00 - Refactor data cleaning pipeline
 Commit on 2023-12-20 00:00:00 - Optimize neural network layers
 Commit on 2023-12-20 00:00:00 - Refine data visualization scripts
+Commit on 2023-12-21 00:00:00 - Add unit tests for core modules
