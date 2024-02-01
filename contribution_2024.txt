@@ -67,3 +67,4 @@ Commit on 2024-01-31 00:00:00 - Refactor data cleaning pipeline
 Commit on 2024-02-01 00:00:00 - Update project documentation
 Commit on 2024-02-01 00:00:00 - Add unit tests for core modules
 Commit on 2024-02-01 00:00:00 - Update project documentation
+Commit on 2024-02-01 00:00:00 - Add unit tests for core modules
