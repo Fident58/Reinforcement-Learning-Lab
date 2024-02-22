@@ -106,3 +106,4 @@ Commit on 2024-02-20 00:00:00 - Refactor data cleaning pipeline
 Commit on 2024-02-20 00:00:00 - Add unit tests for core modules
 Commit on 2024-02-21 00:00:00 - Optimize neural network layers
 Commit on 2024-02-22 00:00:00 - Fix minor bug in model evaluation
+Commit on 2024-02-22 00:00:00 - Add unit tests for core modules
