@@ -146,3 +146,4 @@ Commit on 2024-03-13 00:00:00 - Fix minor bug in model evaluation
 Commit on 2024-03-14 00:00:00 - Refine data visualization scripts
 Commit on 2024-03-14 00:00:00 - Refine data visualization scripts
 Commit on 2024-03-14 00:00:00 - Implement cross-validation techniques
+Commit on 2024-03-14 00:00:00 - Add unit tests for core modules
