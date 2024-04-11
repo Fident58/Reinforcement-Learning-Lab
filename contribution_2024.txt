@@ -203,3 +203,4 @@ Commit on 2024-04-09 00:00:00 - Fix minor bug in model evaluation
 Commit on 2024-04-09 00:00:00 - Fix minor bug in model evaluation
 Commit on 2024-04-09 00:00:00 - Fix minor bug in model evaluation
 Commit on 2024-04-09 00:00:00 - Improve training speed and efficiency
+Commit on 2024-04-11 00:00:00 - Add unit tests for core modules
