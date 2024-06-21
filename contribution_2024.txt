@@ -327,3 +327,4 @@ Commit on 2024-06-19 00:00:00 - Update project documentation
 Commit on 2024-06-19 00:00:00 - Fix minor bug in model evaluation
 Commit on 2024-06-20 00:00:00 - Add new feature for image processing
 Commit on 2024-06-21 00:00:00 - Add new feature for image processing
+Commit on 2024-06-21 00:00:00 - Add unit tests for core modules
