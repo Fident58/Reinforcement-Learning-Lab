@@ -116,3 +116,4 @@ Commit on 2025-05-26 00:00:00 - Update dependencies and requirements.txt
 Commit on 2025-05-27 00:00:00 - Update documentation and README
 Commit on 2025-05-28 00:00:00 - Improve logging and error handling
 Commit on 2025-05-29 00:00:00 - Refine visualization scripts
+Commit on 2025-06-02 00:00:00 - Fix bug in data preprocessing script
